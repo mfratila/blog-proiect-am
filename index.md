@@ -36,24 +36,5 @@ Pentru mai multe informații despre Apple Vision Pro și alte noutăți din lume
 
 Videoul de mai jos surprinde reacțiile autentice ale oamenilor la prima vedere a noului Apple Vision Pro. De la uimirea față de claritatea excepțională a ecranului la entuziasmul pentru tehnologiile inovatoare utilizate, aceste clipuri oferă o privire captivantă în modul în care acest dispozitiv revoluționar influențează experiența de vizualizare.
 
-<div class="embed-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/GuteGpoW8sI?si=7yttlf0ro9HrbTav" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-<style>
-.embed-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-}
-.embed-container iframe,
-.embed-container object,
-.embed-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GuteGpoW8sI?si=7yttlf0ro9HrbTav" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

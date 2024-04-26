@@ -8,7 +8,9 @@ image: /assets/apple-vision-pro.jpg
 excerpt: "Descoperă cum Apple Vision Pro redefinește experiența de vizualizare și ce impact are asupra industriei."
 ---
 
-![Apple Vision Pro](/assets/apple-vision-pro.jpg)
+<div style="text-align:center;">
+    ![Apple Vision Pro](/assets/apple-vision-pro.jpg)
+</div>
 
 Într-o mișcare surprinzătoare, Apple a anunțat recent lansarea noului său produs, Apple Vision Pro, un dispozitiv care promite să revoluționeze experiența de vizualizare. Cu o serie de caracteristici noi și tehnologii avansate, Apple Vision Pro se anunță a fi un game-changer în domeniul tehnologiei de afișare.
 
@@ -30,3 +32,28 @@ Apple Vision Pro promite să fie o piesă de tehnologie cu adevărat revoluțion
 
 Pentru mai multe informații despre Apple Vision Pro și alte noutăți din lumea tehnologiei, rămâneți conectați pe blogul nostru și urmăriți-ne pe rețelele de socializare!
 
+### Reacțiile oamenilor la Apple Vision Pro
+
+Videoul de mai jos surprinde reacțiile autentice ale oamenilor la prima vedere a noului Apple Vision Pro. De la uimirea față de claritatea excepțională a ecranului la entuziasmul pentru tehnologiile inovatoare utilizate, aceste clipuri oferă o privire captivantă în modul în care acest dispozitiv revoluționar influențează experiența de vizualizare.
+
+<div class="embed-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/GuteGpoW8sI?si=7yttlf0ro9HrbTav" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<style>
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>

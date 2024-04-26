@@ -8,11 +8,11 @@ image: /assets/apple-vision-pro.jpg
 excerpt: "Descoperă cum Apple Vision Pro redefinește experiența de vizualizare și ce impact are asupra industriei."
 ---
 
-<div style="text-align:center;">
-    ![Apple Vision Pro](/assets/apple-vision-pro.jpg)
-</div>
+![Apple Vision Pro](/assets/apple-vision-pro.jpg)
 
 Într-o mișcare surprinzătoare, Apple a anunțat recent lansarea noului său produs, Apple Vision Pro, un dispozitiv care promite să revoluționeze experiența de vizualizare. Cu o serie de caracteristici noi și tehnologii avansate, Apple Vision Pro se anunță a fi un game-changer în domeniul tehnologiei de afișare.
+
+![Apple Vision Pro 2](/assets/apple-vision-pro-2.jpg)
 
 ### Ce este Apple Vision Pro?
 
